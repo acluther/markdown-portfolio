@@ -1,4 +1,4 @@
-* Writing
-* Music
-* Textiles
-* Tech
+*Writing*
+*Music*
+**Textiles**
+**Tech**
